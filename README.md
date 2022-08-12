@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanviSavani
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning about Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - Twitter @WackySoul
 
